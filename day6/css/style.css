@@ -1,0 +1,46 @@
+body{
+background-color: hsl(180, 100%, 50%);
+background-image: url(../images/images.png);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+color: white;
+
+}
+.nav a{
+    color: rgb(5, 107, 175);
+    text-decoration: none;
+}
+.nav a:hover{
+    color: rgb(55, 158, 227);
+    text-decoration: underline;
+}
+
+img{
+width: 150px;
+border-radius: 50%;
+}
+header h1{
+    text-align: center;
+}
+#about{
+    text-align: center;
+}
+#skills>h2{
+    text-align: center;
+}
+.buttun{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+div{
+    text-align: center;
+}
+.buttun:hover{
+    background-color: rgb(175, 5, 5);
+    color: white;
+}
