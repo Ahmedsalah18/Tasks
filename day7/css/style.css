@@ -1,0 +1,18 @@
+.cont{
+    text-align: center;
+}
+.cont h3{
+    color:rgb(148, 54, 235);
+    text-decoration: line-through;
+}
+.cont p{
+    background-color: rgb(228, 195, 154);
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-overflow: clip;
+    text-indent: 10px;
+    white-space: unset;
+    line-height: 30px;
+    word-spacing: 4px;
+    letter-spacing: 3px;
+}
