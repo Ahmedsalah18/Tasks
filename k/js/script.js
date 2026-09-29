@@ -4,14 +4,12 @@ for (var s=0; s<=10;i++) {
         console.log(s)
     };
 };
-
 var q = 11;
 while (q++) {
     if (q>=11 && q>=20) {
         console.log(q);
     };
 };
-
 var user={
     name:`rehab`,
     age:`21`,
@@ -22,25 +20,22 @@ var user={
         job:`Engineering`,
      }
 };
-var r = 50; 
-
+var r = 50;
 do {
     if (r>=50 && r>=60) {
         console.log(r);
     }
-
 } while (r++);
 var person={
-    name:`SALAH`,
+    name:`Ahmed`,
     age:`21`,
     job:`Engineering`,
      frind:{
-        name:`Shalokaa`,
+        name:`youssif`,
         age:`20`,
         job:`Engineering`,
      }
 };
-
 function getResult(x,y) {
 
   var  result = (x + y);
