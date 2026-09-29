@@ -9,7 +9,7 @@ var q = 11;
 while (q<=20) {
     if (q>=11 && q>=20) {
         console.log(q);
-        (q++)
+        q++;
     };
 };
 
@@ -28,7 +28,7 @@ var r = 50;
 do {
     if (r>=50 && r>=60) {
         console.log(r);
-        (r++)
+        r++;
     }
 
 } while (r<=60);
